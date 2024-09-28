@@ -66,9 +66,6 @@ Now you can confidently strut around knowing you secured the last batch of Fix C
 
 Want to help improve this project? Fork it, sprinkle some chocolate magic, and send a pull request! Together, we can ensure that no chocolate lover is left behind and that every craving is satisfied! 🙌
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
 
 ---
 
