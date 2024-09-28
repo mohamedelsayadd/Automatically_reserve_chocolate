@@ -58,7 +58,7 @@ This module is the superhero of your chocolate reservation saga. 🦸‍♂️ I
 
 Here’s what your chocolate reservation might look like (this screenshot is *not* photoshopped, we promise!):
 
-![Chocolate Reservation Output]([https://yourlinktoimage.com](https://github.com/mohamedelsayadd/Automatically_reserve_chocolate/blob/main/screenshot_after_reservation.png))
+![Chocolate Reservation Output](https://github.com/mohamedelsayadd/Automatically_reserve_chocolate/blob/main/screenshot_after_reservation.png)
 
 Now you can confidently strut around knowing you secured the last batch of Fix Chocolate! May your days be filled with sweet treats and endless chocolatey joy! 🎊
 
